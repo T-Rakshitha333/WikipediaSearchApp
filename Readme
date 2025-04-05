@@ -1,3 +1,7 @@
+The Wikipedia Search Application is a simple tool that allows users to search for topics directly from Wikipedia.
+When a user enters a keyword, the application connects to Wikipedia's API, fetches relevant information, and displays a summary of the topic. 
+It helps users quickly access accurate and concise information from one of the largest online encyclopedias.
+
 Technologies used : HTML, CSS, JS, REST API Calls, Bootstrap
 Unlock the vast wealth of knowledge on Wikipedia with a custom search
 application that delivers relevant and curated results. Quick and easy access to
